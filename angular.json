@@ -89,8 +89,11 @@
             ],
             "styles": [
               "src/styles.css"
+
             ],
-            "scripts": []
+            "scripts": [
+
+            ]
           }
         },
         "lint": {
@@ -119,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "catWebApp"
+    }
+  },
+  "defaultProject": "catWebApp",
+  "cli": {
+    "analytics": "de919af4-6929-4d07-b962-a3345c5272b2"
+  }
 }

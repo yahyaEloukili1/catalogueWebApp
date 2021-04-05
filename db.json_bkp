@@ -1,0 +1,37 @@
+
+{
+ "products": [
+   {
+     "id":1,
+     "name":"yahya",
+     "price" : 7000,
+     "quantity": 3,
+     "selected": true,
+     "available" : true
+   },
+   {
+    "id":2,
+    "name":"smartphones",
+    "price" : 7000,
+    "quantity": 3,
+    "selected": true,
+    "available" : true
+  },
+  {
+    "id":2,
+    "name":"Laptops",
+    "price" : 2000,
+    "quantity": 3,
+    "selected": true,
+    "available" : true
+  },
+  {
+    "id":3,
+    "name":"computer",
+    "price" : 7000,
+    "quantity": 3,
+    "selected": true,
+    "available" : true
+  }
+ ]
+}

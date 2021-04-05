@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "bsbsb",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "computer",
+      "price": 7000,
+      "quantity": 3,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "computer",
+      "price": 7000,
+      "quantity": 3,
+      "selected": true,
+      "available": false
+    },
+    {
+      "name": "aaaaaaa",
+      "price": 12,
+      "quantity": 13,
+      "selected": false,
+      "available": true,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "selected": false,
+      "available": true,
+      "id": 6
+    }
+  ]
+}
